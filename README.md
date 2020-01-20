@@ -19,5 +19,3 @@
  ]\      _\    /"\
 (" ~----( ~   Y.  )
 ```
-
-View in Raw for a cute little rabbit
