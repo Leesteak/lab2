@@ -1,4 +1,19 @@
-samplephp
-=========
-
-A do nothing PHP site to show that you properly configured a PHP site
+         ,
+        /|      __
+       / |   ,-~ /
+      Y :|  //  /
+      | jj /( .^
+      >-"~"-v"
+     /       Y
+    jo  o    |
+   ( ~T~     j
+    >._-' _./
+   /   "~"  |
+  Y     _,  |
+ /| ;-"~ _  l
+/ l/ ,-"~    \
+\//\/      .- \
+ Y        /    Y    -Row
+ l       I     !
+ ]\      _\    /"\
+(" ~----( ~   Y.  )
